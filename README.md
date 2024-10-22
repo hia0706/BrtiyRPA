@@ -1,2 +1,10 @@
-# BrtiyRPA---DOC
-BrityRPA 프로젝트 모음
+# BrtiyRPA
+
+### 미니 프로젝트 1
+##### 설명
+- Chat gpt4 API를 활용한 Face 인식 및 이미지 추론 시스템 개발
+
+### 미니 프로젝트 2
+##### 설명
+- AI Automation기반  자동차(현대,기아) 판매 현황 결산 및 예측 자동화 시스템 개발
+
